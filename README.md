@@ -3,6 +3,8 @@ Hello world
 -ice cream
 -eggs
 -still water
+-pepsi
+-carrot
 
 # What is this project? 
 
