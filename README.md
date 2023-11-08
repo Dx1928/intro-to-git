@@ -13,3 +13,5 @@ Learning about gits.
 Teachers nice, lerning content interesting
 
 github is fun, wish to learn more
+
+Making some more changes
