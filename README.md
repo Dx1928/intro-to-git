@@ -10,4 +10,4 @@ Hello world
 
 Learning about gits. 
 
-Teachers nice
+Teachers nice, lerning content interesting
