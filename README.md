@@ -9,3 +9,5 @@ Hello world
 # What is this project? 
 
 Learning about gits. 
+
+Teachers nice
